@@ -1,0 +1,8 @@
+csmli
+output
+y.tab.c
+y.tab.h
+lex.yy.c
+*.o
+.DS_Store
+.out
